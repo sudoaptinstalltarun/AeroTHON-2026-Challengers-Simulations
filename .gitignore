@@ -1,0 +1,15 @@
+# MATLAB Autosaves and Crash logs
+*.asv
+*.autosave
+*_crash_dump*
+
+# MATLAB Cache and UI files
+slprj/
+sfprj/
+
+# Large data files (optional, prevents uploading massive datasets)
+*.mat
+
+# OS generated files
+.DS_Store
+Thumbs.db
