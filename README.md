@@ -6,7 +6,7 @@ This repository contains the complete MATLAB mathematical modeling, control syst
 
 ---
 
-## 🚁 UAS Specifications (SkyScan)
+## 🚁 UAS Specifications
 
 These parameters are mathematically derived from CAD models and propulsion datasheets, and are dynamically loaded into the simulations.
 
